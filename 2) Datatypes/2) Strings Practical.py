@@ -1,4 +1,3 @@
-```python
 # strings_demo.py
 
 # ---------------------------------------
@@ -111,4 +110,3 @@ decoded_hindi_chai = encoded_hindi_chai.decode("utf-8")
 print(f"Original Hindi text: {hindi_chai}")
 print(f"Encoded Hindi text: {encoded_hindi_chai}")
 print(f"Decoded Hindi text: {decoded_hindi_chai}")
-```
