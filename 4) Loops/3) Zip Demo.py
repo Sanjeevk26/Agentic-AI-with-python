@@ -1,6 +1,3 @@
-# order_summary.py
-
-# ---------------------------------------
 # Python zip() Demo
 # Topic:
 # Preparing an order summary using two lists
