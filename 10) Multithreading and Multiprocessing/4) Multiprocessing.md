@@ -168,7 +168,6 @@ for process in processes:
 ```
 
 Since each process has its own interpreter and GIL, multiple processes can run CPU-heavy Python work in parallel on multiple CPU cores.
-
 ---
 
 # 5. The **main** Guard
