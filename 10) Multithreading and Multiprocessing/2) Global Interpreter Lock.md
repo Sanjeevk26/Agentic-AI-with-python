@@ -386,7 +386,6 @@ you may see an error similar to:
 An attempt has been made to start a new process
 before the current process has finished its bootstrapping phase.
 ```
-
 Fix it by placing process creation and startup inside the main guard.
 
 ---
