@@ -603,7 +603,7 @@ await asyncio.gather(tasks)
 
 Correct:
 
-```python id="ut9tjb"
+```python 
 await asyncio.gather(*tasks)
 ```
 
