@@ -443,7 +443,6 @@ Or, for a blocking existing function:
 ```python id="pl0ziz"
 await asyncio.to_thread(blocking_function)
 ```
-
 ---
 
 # Key Takeaways
