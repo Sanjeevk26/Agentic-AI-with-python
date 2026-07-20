@@ -7,7 +7,6 @@
 # 5. Thread and process arguments
 # 6. Measuring execution time
 # -------------------------------------------------
-
 import os
 import threading
 import time
