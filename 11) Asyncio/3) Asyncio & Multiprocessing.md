@@ -457,7 +457,7 @@ with ProcessPoolExecutor as pool:
 
 Correct:
 
-```python id="a0lsc1"
+```
 with ProcessPoolExecutor() as pool:
 ```
 
@@ -465,7 +465,7 @@ with ProcessPoolExecutor() as pool:
 
 Incorrect:
 
-```python id="bk7b6i"
+```
 asyncio.run(main())
 ```
 
@@ -480,7 +480,7 @@ if __name__ == "__main__":
 
 Incorrect:
 
-```python id="v4odpa"
+```
 loop.run_in_executor(
     pool,
     encrypt_data("card-1234"),
@@ -489,7 +489,7 @@ loop.run_in_executor(
 
 Correct:
 
-```python id="t3cuwc"
+```
 loop.run_in_executor(
     pool,
     encrypt_data,
