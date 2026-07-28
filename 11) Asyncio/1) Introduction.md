@@ -7,7 +7,7 @@ Asynchronous programming allows Python to handle many waiting-heavy tasks effici
 It is especially useful for I/O-bound work such as:
 
 * API calls
-* Database querie
+* Database queries
 * File operations
 * Network requests
 * Web server requests
