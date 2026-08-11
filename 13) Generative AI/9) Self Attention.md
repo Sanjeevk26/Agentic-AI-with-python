@@ -24,7 +24,6 @@ Multi-Head Attention
 
 These concepts help the model understand context more deeply.
 
----
 
 # 1. Where Self-Attention Comes In
 
