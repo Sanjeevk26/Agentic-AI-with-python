@@ -7,7 +7,7 @@
 # 1. Create Customer Names List
 # -----------------------------
 
-names = ["Hitesh", "Meera", "Sam", "Ali"]
+names = ["Hitesh", "Meera", "Sam"]
 
 # -----------------------------
 # 2. Create Bills List
