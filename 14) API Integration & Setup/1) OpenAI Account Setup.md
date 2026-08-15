@@ -6,7 +6,7 @@ In this lesson, we set up an OpenAI account so that we can use OpenAI APIs from 
 
 The goal is to prepare the account for upcoming AI API calls.
 
-We will cover:
+This file will cover:
 
 * Opening the OpenAI Platform
 * Signing in or signing up
