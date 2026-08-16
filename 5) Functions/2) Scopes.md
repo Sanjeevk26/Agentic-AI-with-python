@@ -27,7 +27,6 @@ Local -> Enclosing -> Global -> Built-in
 ```
 
 This is also called the **LEGB Rule**.
-
 ## 1. Local Scope
 
 A variable created inside a function belongs to the local scope.
