@@ -31,7 +31,6 @@ Do we have tea leaves?
 Yes -> Make chai
 No  -> Buy tea leaves
 ```
-
 This is the basic idea of conditionals.
 
 ## if Statement
