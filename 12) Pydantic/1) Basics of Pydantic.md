@@ -23,7 +23,7 @@ For example, if a field should be a string, integer, or boolean, Pydantic can va
 
 Without Pydantic, Python allows this:
 
-```python id="afvn57"
+```
 name = "Chai Code"
 name = 87
 ```
