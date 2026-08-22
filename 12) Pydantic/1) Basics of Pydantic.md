@@ -12,7 +12,6 @@ Pydantic is a Python library used for:
 * API request and response validation
 
 It is widely used in modern Python applications, especially with frameworks like FastAPI.
-
 ---
 
 # 1. What Is Pydantic?
