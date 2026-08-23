@@ -160,8 +160,6 @@ Booleans are used in decision-making, such as:
 
 ## Boolean as Numbers
 
-In Python:
-
 ```text
 True = 1
 False = 0
