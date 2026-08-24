@@ -10,7 +10,7 @@
 # 4. asyncio.gather()
 # 5. Background daemon thread
 # 6. Async task running alongside a thread
-# -------------------------------------------------
+# -----------------------------------------------
 
 import asyncio
 import hashlib
