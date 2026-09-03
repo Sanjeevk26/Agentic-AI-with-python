@@ -71,7 +71,6 @@ Create a folder on the desktop, for example:
 ```text
 TestWin
 ```
-
 Open this folder in VS Code.
 
 Inside it, create another folder:
