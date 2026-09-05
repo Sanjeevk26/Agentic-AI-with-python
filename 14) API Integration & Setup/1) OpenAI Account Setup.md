@@ -59,7 +59,7 @@ Once logged in, you will be able to access the platform dashboard.
 
 After logging in, click the button or option that says:
 
-```text id="33lq5v"
+```
 Dashboard
 ```
 
