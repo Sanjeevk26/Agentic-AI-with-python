@@ -6,7 +6,7 @@ Strings are one of the most commonly used data types in Python.
 
 A string is any text written inside quotes.
 
-```python
+```
 chai_type = "Ginger Chai"
 customer_name = "Priya"
 ```
