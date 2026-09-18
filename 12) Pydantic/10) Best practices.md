@@ -106,7 +106,7 @@ Use meaningful names for:
 
 Good names:
 
-```python id="4uuxrq"
+```
 Address
 Company
 Employee
