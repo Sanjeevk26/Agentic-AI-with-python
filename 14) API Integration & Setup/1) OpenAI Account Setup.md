@@ -347,7 +347,7 @@ This is safer and cleaner.
 
 To use OpenAI APIs from Python, you need:
 
-```text id="pwr8bd"
+```
 OpenAI account
 Billing credits
 API key
