@@ -18,7 +18,6 @@ Python commonly provides:
 | Process-based parallelism | `multiprocessing`, `ProcessPoolExecutor` |
 
 ---
-
 # 1. Concurrency
 
 Concurrency means that multiple tasks make progress during the same period.
