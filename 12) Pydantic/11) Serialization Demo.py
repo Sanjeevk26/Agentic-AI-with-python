@@ -61,7 +61,6 @@ class User(BaseModel):
     address: Address
     tags: List[str] = Field(default_factory=list)
 
-
 # =================================================
 # 3. Create User Object
 # =================================================
